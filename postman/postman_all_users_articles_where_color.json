@@ -1,0 +1,52 @@
+//http://localhost:8090/api/users/article_color/Green
+[
+  {
+    "id": 1,
+    "name": "Bogdan",
+    "age": 47,
+    "article": [
+      {
+        "id": 1,
+        "text": "Some text 1",
+        "color": "Black"
+      },
+      {
+        "id": 5,
+        "text": "Some text 5",
+        "color": "Green"
+      },
+      {
+        "id": 8,
+        "text": "Some text 8",
+        "color": "Brown"
+      },
+      {
+        "id": 12,
+        "text": "Some text 12",
+        "color": "Red"
+      },
+      {
+        "id": 14,
+        "text": "Some text 14",
+        "color": "Red"
+      },
+      {
+        "id": 16,
+        "text": "Some text 16",
+        "color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Yana",
+    "age": 26,
+    "article": [
+      {
+        "id": 10,
+        "text": "Some text 10",
+        "color": "Green"
+      }
+    ]
+  }
+]
